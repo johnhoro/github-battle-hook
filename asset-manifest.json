@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-battle-hook/static/css/main.d64a5da5.css",
+    "main.js": "/github-battle-hook/static/js/main.60ed11ca.js",
+    "index.html": "/github-battle-hook/index.html",
+    "main.d64a5da5.css.map": "/github-battle-hook/static/css/main.d64a5da5.css.map",
+    "main.60ed11ca.js.map": "/github-battle-hook/static/js/main.60ed11ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64a5da5.css",
+    "static/js/main.60ed11ca.js"
+  ]
+}
